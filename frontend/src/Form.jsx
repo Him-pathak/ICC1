@@ -70,7 +70,7 @@ export default function MyForm() {
               component="p"
               gutterBottom
             >
-              Write your complaint below or fill the <strong>google form below</strong>
+              Write your complaints below or fill the <strong>google form below</strong>
             </Typography>
             <form>
               <Grid container spacing={1}>
